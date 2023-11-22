@@ -42,5 +42,6 @@ Input tumor measurements using the sliders.
 View the radar chart and predictions for the tumor diagnosis.
 
 Conclusion
+
 This Streamlit app offers a user-friendly interface for predicting breast tumor diagnoses using a machine learning model trained on the Wisconsin Breast Cancer Dataset.
 Feel free to explore, input your measurements, and gain insights into tumor predictions!
